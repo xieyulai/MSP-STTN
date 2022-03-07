@@ -8,10 +8,10 @@ Under construction
 ```
 
 Note that this project consists of **four** parts.
-1. Data preparation from the original dataset to the required form. ([MSP-STTN-DATA]())
-2. Code for BikeNYC dataset. (This repo) 
-3. Code for TaxiBJ dataset. ([MSP-STTN-BJ]())
-3. Code for CrowdDensityBJ dataset. ([MSP-STTN-DENSITY]())
+1. Data preparation from the original dataset to the required form. ([MSP-STTN-DATA](https://github.com/xieyulai/MSP-STTN-DATA))
+2. Code for **BikeNYC** dataset. (This repo) 
+3. Code for **TaxiBJ** dataset. ([MSP-STTN-BJ](https://github.com/xieyulai/MSP-STTN-BJ))
+3. Code for **CrowdDensityBJ** dataset. ([MSP-STTN-DENSITY](https://github.com/xieyulai/MSP-STTN-DENSITY))
 
 ## TaxiBJ
 
@@ -22,7 +22,7 @@ PyTorch > 1.07
 Please refer to `requirements.txt`
 
 ### Data Preparation
-- Processing data according to [MSP-STTN-DATA]().
+- Processing data according to [MSP-STTN-DATA](https://github.com/xieyulai/MSP-STTN-DATA).
 - The `data\` should be like this:
 ```bash
 data
