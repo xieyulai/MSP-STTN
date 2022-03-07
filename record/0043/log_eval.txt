@@ -1,0 +1,3 @@
+inflow rmse: 7.28493    outflow rmse: 7.6281
+-----------------------
+Best:RMSE:7.46,MAE:3.42,epoch:1

@@ -1,0 +1,38 @@
+TRAIN:
+  DROPOUT: 0.1
+  EVAL_START_EPOCH: 11
+
+  LEN_CLOSE: 0
+  LEN_PERIOD: 1
+  LEN_TREND: 1
+
+  LENGTH: 6
+  IS_SEQ: 0
+
+  PATCH_LIST: '[[2,2],[2,2],[2,2],[4,4],[4,4],[4,4],[8,8],[8,8]]'
+
+  BATCH_SIZE: 14
+
+  IS_USING_SKIP: 1
+
+  MODEL_DIM: 256
+  ATT_NUM: 1
+  CROSS_ATT_NUM: 1
+  IS_MASK_ATT: 1
+  MERGE: 'cross-attention'
+  IS_SCALE: 0
+
+  IS_REDUCE: 0
+
+  LR: 0.001
+  EPOCH: 30
+
+  WARMUP_EPOCH: 1
+
+  MILE_STONE: '[10,20,28]'
+
+  LOSS_MAIN: 1.0
+  LOSS_TIME: 0.00001
+  LOSS_TYP: 0.00001
+
+
