@@ -1,10 +1,18 @@
 # MSP-STTN
 
-Code and data for the paper [Multi-Size Patched Spatial-Temporal Transformer Network for Short- and Long-Term Grid-based Crowd Flow Prediction]()
+Code and data for the paper [Multi-Size Patched Spatial-Temporal Transformer Network for Short- and Long-Term Grid-based Crowd Flow Prediction](https://ieeexplore.ieee.org/document/9827981)
 
 Please cite the following paper if you use this repository in your research.
 ```
-Under construction
+@ARTICLE{9827981,  
+author={Xie, Yulai and Niu, Jingjing and Zhang, Yang and Ren, Fang},  
+journal={IEEE Transactions on Intelligent Transportation Systems},   
+title={Multisize Patched Spatial-Temporal Transformer Network for Short-and Long-Term Crowd Flow Prediction},   
+year={2022},  
+volume={},  
+number={},  
+pages={1-21},  
+doi={10.1109/TITS.2022.3186707}}
 ```
 
 Note that this project consists of **four** parts.
